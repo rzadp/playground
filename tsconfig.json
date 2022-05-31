@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "noEmit": true,
+    "rootDir": ".",
+    "target": "es2017",
+    "lib": [
+      "ESNext"
+    ],
+    "types": [
+      "mocha"
+    ],
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "resolveJsonModule": true
+  }
+}
